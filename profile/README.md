@@ -1,4 +1,4 @@
-![Willkommen bei USSR-Security!](profile/logo.png)
+![Willkommen bei USSR-Security!](.github/profile/logo.png)
 
 ----
 
